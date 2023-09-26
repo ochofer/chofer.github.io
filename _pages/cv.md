@@ -11,22 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Quantitative Political Science, University of Warwick, 2024 (expected)
+* M.Sc. in Business, Ca' Foscari University of Venice, 2020
+* B.Sc. in Business and Computer Science, Technical University of Munich (TUM), 2018
 
-Work experience
+Academic work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: Research Associate
+  * University of Warwick
+  * Working with Professor Vincenzo Bove (University of Warwick), Prof Georgios Efthyvoulou (University of Sheffield), Dr Harry Pickard (Newcastle University) on the ESRC funded project ["The Effect of Terrorism on Public Attitudes and Individual Well-being in Great Britain"](https://sites.google.com/view/terror-attitudes-wellbeing/team).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2022: Senior Graduate Teaching Assistant
+  * University of Warwick
+  * Delivered seminars and computer classes for the undergraduate modules Introduction to Quantitative Political Analysis I and Introduction to Quantitative Political Analysis II.
+
+* 2019: Research Assistant
+  * Ca' Foscari University of Venice
+  * Working with Prof Stefano Micelli (Ca’ Foscari University ofVenice) on the project "Automation and AI in italian SMEs: a quantitative analysis", in partnerhsip with Banca IFIS.
+
+Other work experience
+======
+* 2019: BCG UnlimITed Participant
+  * Boston Consulting Group
+  * Paris, France
+
+* 2017-2018: In-house Consulting
+  * AutoScout24
+  * Munich, Germany
   
+* 2013-2014: CEO Assistant
+  * Vedag China
+  * Shanghai, China
+
 Skills
 ======
 * Skill 1
