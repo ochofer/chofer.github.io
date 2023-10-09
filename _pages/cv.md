@@ -17,9 +17,13 @@ Education
 
 Academic work experience
 ======
-* 2023: Research Associate
+* 2023-Current: Post-doctoral Research Associate
+  * Queen Mary University of London (QMUL)
+  * Working with Prof Maria Grasso (QMUL), Prof Charles J Pattie (University of Sheffield), and Dr Laura Serra (LSE) on the ESRC funded project ["The impact of political humour on political attitudes and behaviours"](https://gtr.ukri.org/projects?ref=ES/R010242/2).
+
+* 2022-Current: Research Associate
   * University of Warwick
-  * Working with Professor Vincenzo Bove (University of Warwick), Prof Georgios Efthyvoulou (University of Sheffield), Dr Harry Pickard (Newcastle University) on the ESRC funded project ["The Effect of Terrorism on Public Attitudes and Individual Well-being in Great Britain"](https://sites.google.com/view/terror-attitudes-wellbeing/team).
+  * Working with Prof Vincenzo Bove (University of Warwick), Prof Georgios Efthyvoulou (University of Sheffield), and Dr Harry Pickard (Newcastle University) on the ESRC funded project ["The Effect of Terrorism on Public Attitudes and Individual Well-being in Great Britain"](https://sites.google.com/view/terror-attitudes-wellbeing/team).
 
 * 2021-2022: Senior Graduate Teaching Assistant
   * University of Warwick
