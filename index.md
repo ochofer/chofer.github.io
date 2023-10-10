@@ -4,7 +4,7 @@ title: Personal Profile
 
 ## Academic Background
 
-Carlo Hofer is a final year PhD candidate in quantitative political science at the University of Warwick, and a post-doctoral fellow at QMUL. Carlo holds an MSc from the University of Venice as well as a BSc in Business and Computer Science from the Technical University of Munich (TUM).
+Carlo Hofer is a final-year PhD candidate in quantitative political science at the University of Warwick, and a post-doctoral research associate at QMUL. Carlo holds an MSc from the University of Venice as well as a BSc in Business and Computer Science from the Technical University of Munich (TUM).
 
 ## Dissertation
 
@@ -45,3 +45,4 @@ Carlo's dissertation is supervised by [Prof Vincenzo Bove](https://warwick.ac.uk
 ## Awards and Scholarships
 - Departmental Scholarship offered by the Department of Politics and International Studies.
 - Funded visiting PhD position (2022) at the University of Gothenburg (EUTOPIA Doctoral Mobility Programme).
+- Monetary prize (EUR1000) for undergraduate dissertation with full grades (top 1% of cohort).
